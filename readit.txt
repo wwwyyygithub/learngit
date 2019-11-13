@@ -1,0 +1,3 @@
+Git is useless
+Git is there best friend
+Git has a mutable index of called stage
