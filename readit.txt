@@ -1,4 +1,8 @@
 Git is useless
 Git is there best friend
 Git has a mutable index of called stage
+<<<<<<< HEAD
 Git is a free softwaredasd dsdasadsasdaa
+=======
+Git is a free softwaredasd
+>>>>>>> ac0b440060c015f4855cfee94b10a956563fe827
